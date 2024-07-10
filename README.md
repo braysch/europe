@@ -18,6 +18,7 @@ Upon running the program, you will be given a set of options:
    1) Merge - Merge duplicate members.
     
 ?) Displays information about options
+
 q) Exits program
 
 # Retrospective Observations
