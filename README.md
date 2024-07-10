@@ -23,11 +23,11 @@ q) Exits program
 
 # Retrospective Observations
 
-*When I originally wrote this program, it did not loop.
-*Sometimes I used the strings `"True"` and `"False"` instead of booleans `True` and `False` like a psychopath.
-*There is no error checking in the merge function. This user has to type the merging members' names perfectly or the program will crash.
-*The discrepency checking does not account for differing states.
-*There is no functionality to copy data from 43rd Ward Master List.txt to Backup.txt
+* When I originally wrote this program, it did not loop.
+* Sometimes I used the strings `"True"` and `"False"` instead of booleans `True` and `False` like a psychopath.
+* There is no error checking in the merge function. This user has to type the merging members' names perfectly or the program will crash.
+* The discrepency checking does not account for differing states.
+* There is no functionality to copy data from 43rd Ward Master List.txt to Backup.txt
 
 Why are there so many unresolved bugs? Because I had just learned Python, I knew how to work around the bugs, and the lifespan of this project was not very long. Otherwise, I would have taken more time to fine-tune it.
 
